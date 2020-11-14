@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Razer Viper Ultimate',
     image: '/img/mouse.png',
     description: 'Ambidextrous Gaming Mouse with Razer™ HyperSpeed Wireless',
@@ -12,7 +11,6 @@ const products = [
     numReviews: 4,
   },
   {
-    _id: '2',
     name: 'Razer BlackShark V2 Pro',
     image: '/img/headset.png',
     description: 'Wireless esports headset',
@@ -24,7 +22,6 @@ const products = [
     numReviews: 6,
   },
   {
-    _id: '3',
     name: 'Razer Huntsman Mini',
     image: '/img/keyboard.png',
     description: '60% Gaming Keyboard with Razer™ Optical Switch',
@@ -36,7 +33,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: '4',
     name: 'Razer Raptor',
     image: '/img/monitor.png',
     description: 'The Ultimate Esports Gaming Monitor',
@@ -48,7 +44,6 @@ const products = [
     numReviews: 2,
   },
   {
-    _id: '5',
     name: 'Razer BlackWidow V3 Pro',
     image: '/img/keyboard2.png',
     description:
@@ -61,7 +56,6 @@ const products = [
     numReviews: 7,
   },
   {
-    _id: '6',
     name: 'Razer Blade 15 Advanced Edition',
     image: '/img/laptop.png',
     description: 'More Power. More Cores. More Frames.',
